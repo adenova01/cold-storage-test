@@ -12,7 +12,7 @@
     ├── providers/   # State management
     ├── screens/     # UI screens
     └── widgets/     # Reusable components
-- Alasan saya menggunakan provider karena saya mudah paham dan diakui resmi oleh flutter
+- Alasan saya menggunakan provider karena mudah dan saya paham, dan juga diakui resmi oleh flutter
 
 # Trade off
 - Untuk scan SKU saya tidak menggunakan library ataupun membuka kamera, karena waktu tidak cukup, dan saya hanya implementasikan dengan random string
