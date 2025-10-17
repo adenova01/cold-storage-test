@@ -18,3 +18,8 @@
 - Untuk scan SKU saya tidak menggunakan library ataupun membuka kamera, karena waktu tidak cukup, dan saya hanya implementasikan dengan random string
 - Saya menambahkan feature untuk clear all list inventory
 - Saya juga menambahkan validasi ketika qty dari input inbound melebihi sisa yang ada di location, maka data tidak akan tersimpan dan memunculkan snackbar
+
+# Screenshoot
+<img src="https://raw.githubusercontent.com/adenova01/cold-storage-test/refs/heads/main/screenshot/dashboard.jpg" />
+<img src="https://raw.githubusercontent.com/adenova01/cold-storage-test/refs/heads/main/screenshot/add.jpg" />
+<img src="https://raw.githubusercontent.com/adenova01/cold-storage-test/refs/heads/main/screenshot/list.jpg" />
